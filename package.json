@@ -1,5 +1,5 @@
 {
-  "name": "design-tokens-test",
+  "name": "@takumi-hatta-dig/design-tokens-test",
   "version": "0.0.0",
   "homepage": "https://github.com/takumi-hatta-dig/design-tokens-test#readme",
   "style": "dist/tokens.css",
