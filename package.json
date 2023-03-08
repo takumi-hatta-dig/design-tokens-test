@@ -1,5 +1,5 @@
 {
-  "name": "@takumi-hatta-dig/design-tokens-test",
+  "name": "@takumi-hatta/design-tokens-test",
   "version": "0.0.0",
   "homepage": "https://github.com/takumi-hatta-dig/design-tokens-test#readme",
   "style": "dist/tokens.css",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git@github.com-da:takumi-hatta-dig/design-tokens-test.git"
   },
-  "author": "takumi-hatta-dig",
+  "author": "takumi-hatta",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx}\"",
