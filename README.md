@@ -2,6 +2,16 @@
 
 [デジタル庁 デザインシステム（Figma）](https://www.figma.com/@jpdigitalagency)
 
+## インストール
+
+```
+$ npm i @takumi-hatta/design-tokens-test
+```
+
+## サンプル
+
+https://github.com/takumi-hatta-dig/design-tokens-test-examples
+
 ## ローカルで tokens を生成したい場合
 
 ```
