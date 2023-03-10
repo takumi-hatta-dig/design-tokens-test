@@ -1,6 +1,6 @@
 # Design Tokens Test
 
-[デジタル庁 デザインシステム（Figma）](https://www.figma.com/@jpdigitalagency)のデザイントークンを css, scss, js + d.ts のいずれかで扱えるような仕組みを実装したリポジトリです。
+[デジタル庁 デザインシステム（Figma）](https://www.figma.com/@jpdigitalagency)のデザイントークンを css, scss, js + d.ts のいずれかで扱える仕組みを実装したリポジトリです。
 変換されたデザイントークンは npm パッケージとして公開しています。  
 サンプルは[こちら](https://github.com/takumi-hatta-dig/design-tokens-test-examples)です。
 
