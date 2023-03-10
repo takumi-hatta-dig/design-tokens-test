@@ -29,7 +29,7 @@ StyleDictionary.registerTransformGroup({
 
 StyleDictionary.registerFilter({
   name: 'da/filter-tokens',
-  matcher: function (token) {
+  matcher: (token) => {
     if (token.name.includes('token-set') || token.name.includes('TokenSet')) {
       return false;
     }
